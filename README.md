@@ -1,15 +1,38 @@
 # Paie Multi-Sociétés Pro 2025
 
-Application WPF/.NET 8 de gestion de paie multi-sociétés.
+Application desktop WPF développée en C# pour la gestion de paie multi-sociétés.
 
-## Lancement
-Double-cliquez sur `run_app.bat`.
+## Captures d'écran
 
-## Comptes
-- admin / admin123
-- paie / paie123
-- rh / rh123
-- lecteur / lecteur123
+### Connexion
+![Login](assets/screenshots/login.png)
 
-## Fonctionnalités
-Login, rôles, sociétés accessibles, salariés, contrats, famille, absences, rubriques, bulletins, livre de paie, permissions, audit, thème clair/sombre, impression/PDF via Microsoft Print to PDF.
+### Tableau de bord
+![Tableau de bord](assets/screenshots/tableau%20de%20bord.png)
+
+### Sociétés
+![Sociétés](assets/screenshots/société.png)
+
+### Utilisateurs
+![Utilisateurs](assets/screenshots/utilisateur.png)
+
+### Permissions
+![Permissions](assets/screenshots/permission.png)
+
+### Salariés
+![Salariés](assets/screenshots/salariés.png)
+
+### Contrats
+![Contrats](assets/screenshots/contracts.png)
+
+### Bulletins de paie
+![Bulletins](assets/screenshots/bulltin.png)
+
+### Livre de paie
+![Livre de paie](assets/screenshots/livre%20de%20paie.png)
+
+### Paramètres
+![Paramètres](assets/screenshots/paramétre.png)
+
+### Audit
+![Audit](assets/screenshots/audit.png)
