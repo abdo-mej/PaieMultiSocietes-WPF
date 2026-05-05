@@ -1,4 +1,4 @@
-# 💰 Paie Multi-Sociétés Pro 2025 — Payroll Management System
+# 💰 Paie Multi-Sociétés — Payroll Management System
 
 > Application desktop professionnelle développée en **C# (WPF)** pour la gestion complète de la paie multi-entreprises.
 
@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-Paie Multi-Sociétés Pro est une solution logicielle permettant de gérer efficacement la paie dans plusieurs entreprises depuis une seule interface.
+Paie Multi-Sociétés est une solution logicielle permettant de gérer efficacement la paie dans plusieurs entreprises depuis une seule interface.
 
 Elle couvre l’ensemble des besoins métier :
 - gestion des salariés
