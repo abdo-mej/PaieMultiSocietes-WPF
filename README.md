@@ -3,6 +3,11 @@
 > Application desktop professionnelle développée en **C# (WPF)** pour la gestion complète de la paie multi-entreprises.
 
 ---
+## 🎬 Démonstration
+
+<p align="center">
+  <img src="assets/screenshots/Animation.gif" width="800"/>
+</p>
 
 ## 🚀 Overview
 
