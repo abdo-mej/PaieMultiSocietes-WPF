@@ -6,7 +6,7 @@
 ## 🎬 Démonstration
 
 <p align="center">
-  <img src="assets/screenshots/Animation.gif" width="800"/>
+  <img src="PaieMultiSocietesPro2025/assets/screenshots/Animation.gif" width="800"/>
 </p>
 
 ## 🚀 Overview
